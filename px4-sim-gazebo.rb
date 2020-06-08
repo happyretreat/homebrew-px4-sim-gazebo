@@ -1,3 +1,5 @@
+require "formula"
+
 class Px4SimGazebo < Formula
   desc "Custom package PX4 Gazebo simulation"
   homepage "To BE DONE"
